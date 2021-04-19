@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+William McCarty, taking ENG 236 after being absent from school for three years.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I assembled this blogpost for a class assignment. I got to reintroduce myself to some basic programming language syntax for use in Ruby and Markdown.  And it reminded me of a terrible time I had in a JAVA course.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[William McCarty](mailto:wbm240@email.vccs.edu)
